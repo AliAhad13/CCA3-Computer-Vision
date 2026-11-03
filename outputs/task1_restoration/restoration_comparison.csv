@@ -1,0 +1,7 @@
+Technique,PSNR (dB),SSIM
+Gaussian Noise,20.58,0.1375
+Gaussian + Median Filter,31.9,0.7152
+Gaussian + Gaussian Filter,31.38,0.6814
+Salt-and-Pepper Noise,17.79,0.2339
+Salt-and-Pepper + Median Filter,44.83,0.9859
+Salt-and-Pepper + Gaussian Filter,28.34,0.5899
