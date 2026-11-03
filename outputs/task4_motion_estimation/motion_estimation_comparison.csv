@@ -1,0 +1,4 @@
+Method,Technique,Purpose
+Frame Differencing,Difference between consecutive frames,Detects changes between frames
+GMM Background Subtraction,Separates foreground from background,Identifies moving foreground objects
+Lucas-Kanade Optical Flow,Tracks movement of feature points,Estimates direction and movement
