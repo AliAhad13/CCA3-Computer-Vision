@@ -1,0 +1,17 @@
+# Jupyter files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# YOLO model weights
+*.pt
+
+# Temporary files
+.DS_Store
+Thumbs.db
