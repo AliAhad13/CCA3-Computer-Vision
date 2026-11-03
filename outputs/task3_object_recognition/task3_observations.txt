@@ -1,0 +1,13 @@
+
+Task 3: Object Recognition
+
+Haar Cascade detected 2 regions in Food Photo 1 and 0 in Food Photo 2.
+YOLOv8 detected 2 objects in Food Photo 1 and 6 in Food Photo 2.
+
+YOLOv8 detected more objects than Haar Cascade in these images.
+Haar Cascade is designed for specific patterns such as faces,
+while YOLOv8 supports multiple object categories.
+
+The results show that detection performance depends on the
+model and the type of objects present in the images.
+More detections do not necessarily indicate higher accuracy.
